@@ -6,13 +6,12 @@ The program combined theoretical foundations, Python practice, and hands-on proj
 
 ---
 
-## 🗂️ Repository Structure  
+## 🗂️ Internship Structure  
 - **Week-1** → Basics of Python & Cybersecurity Fundamentals  
 - **Week-2** → Cryptography & Security Utilities (Practice Projects)  
 - **Week-3** → System Security & Networking Tools (Practice Projects)  
 - **Week-4** → Mini Project – *Brute Force Attack Simulator & Defender*  
-- **Final-Project** → Code + Report + Documentation  
-- **Certificates** → Internship certificate and related documents  
+- **Final-Project** → Code + Report + Documentation 
 
 ---
 
